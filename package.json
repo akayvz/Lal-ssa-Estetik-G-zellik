@@ -1,0 +1,12 @@
+{
+  "name": "lalissa-synqrix-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lalıssa Estetik & Güzellik için Synqrix satış demosu",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "lint": "node scripts/check.mjs",
+    "test": "node --test tests/site.test.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}

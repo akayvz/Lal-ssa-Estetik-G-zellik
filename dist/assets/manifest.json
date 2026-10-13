@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "notice": "Tüm fotoğraflar konsepttir; Lalıssa'nın mekânı, ekibi, cihazları veya ürünleri değildir.",
+  "assets": [
+    {
+      "slot": "hero-and-gallery-cilt-bakimi",
+      "file": "images/facial.jpg",
+      "source": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881",
+      "license": "Unsplash License",
+      "replacement": "Müşteri onaylı, yatay uygulama detayı fotoğrafı",
+      "alt": "Cilt bakımı uygulamasından temsili bir yakın plan"
+    },
+    {
+      "slot": "gallery-maske",
+      "file": "images/treatment.jpg",
+      "source": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9",
+      "license": "Unsplash License",
+      "replacement": "Müşteri onaylı, nötr tonlu bakım detayı",
+      "alt": "Yüze maske uygulamasını gösteren temsili konsept fotoğraf"
+    },
+    {
+      "slot": "gallery-detay",
+      "file": "images/skin-detail.jpg",
+      "source": "https://images.unsplash.com/photo-1515377905703-c4788e51af15",
+      "license": "Unsplash License",
+      "replacement": "Müşteri onaylı, markasız ürün veya el detayı",
+      "alt": "Bakım yağı kullanılan ellerin temsili yakın planı"
+    }
+  ]
+}
